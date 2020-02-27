@@ -37,3 +37,4 @@ print(slownik2.values())
 print(m.pi)
 for litera in wyraz:
     print(litera)
+
