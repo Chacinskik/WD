@@ -1,4 +1,5 @@
 import math as m
+# git push -u origin master
 print('hello world!')
 print("Wy"+"raz")
 #listy
